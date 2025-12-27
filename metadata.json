@@ -1,0 +1,7 @@
+{
+  "name": "Lucca's Fine Italian Restaurant",
+  "description": "An elegant, modern website for Lucca's in Helena, Montana, featuring a seasonal Italian menu, reservation system, and an AI dining assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
